@@ -1,0 +1,8 @@
+## Interface: 120000, 120001, 120100
+## X-Min-Interface: 120000
+## Title: |cffff8000Custom Arena Logs|r
+## Notes: Automatically enables combat logging when in arenas.
+## Author: Shash
+## Version: 12.1.0
+
+CustomArenaLogs.lua
